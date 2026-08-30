@@ -1,0 +1,23 @@
+# Environment
+.env
+venv/
+.venv/
+myenv/
+__pycache__/
+*.pyc
+
+# Generated vector index (regenerate via scripts/build_index.py — don't commit binary index files)
+data/chroma_store/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Logs
+*.log
+
+# Pytest
+.pytest_cache/
