@@ -6,7 +6,7 @@ A Retrieval-Augmented Generation pipeline over the LF Jobs dataset (1,000 job li
 
 1. **Clone and create a virtual environment**
    ```
-   git clone <your-repo-url>
+   git clone https://github.com/sumanbhattarai58/rag-job-pipeline.git
    cd Job Data Retrieval
    python -m venv venv            #python 3.11 recommended
    venv\Scripts\activate          # Windows
